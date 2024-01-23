@@ -14,3 +14,6 @@
 4. https://zlthinker.github.io/extended_kalman_filter
 5. https://www.alanzucconi.com/2022/07/24/extended-kalman-filter/
 6. https://github.com/balzer82/Kalman
+7. https://automaticaddison.com/extended-kalman-filter-ekf-with-python-code-example/
+8. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/11-Extended-Kalman-Filters.ipynb
+9. 
