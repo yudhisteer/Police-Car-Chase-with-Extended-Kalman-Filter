@@ -1,6 +1,16 @@
 # Police Car Chase with Extended Kalman Filter
 
+## Problem Statement
 
+## Abstract
+
+## Plan of Action
+1. Overview
+2. Process Model
+3. Prediction Step
+4. Measurement
+5. Update Step
+6. The Chase
 
 
 
