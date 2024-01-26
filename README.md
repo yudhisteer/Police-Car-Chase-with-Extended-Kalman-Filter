@@ -16,7 +16,7 @@
 
 ## 1. Overview
 
-<div style="text-align: center;">
+<div align="center">
     <table>
         <tr>
             <th></th>
@@ -36,8 +36,7 @@
     </table>
 </div>
 
-
-<div style="text-align: center;">
+<div align="center">
     <table>
         <tr>
             <th align="center">True State:</th>
@@ -53,6 +52,8 @@
         </tr>
     </table>
 </div>
+
+
 
 
 
