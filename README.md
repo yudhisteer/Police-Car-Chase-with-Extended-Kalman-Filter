@@ -16,10 +16,25 @@
 
 ## 1. Overview
 
-|              | Linear Kalman Filter | Extended Kalman Filter |
-|--------------|---------|---------|
-| Process model: | ![Linear KF](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/d4e0430e-3809-40ba-ab25-d37a537a3f76) | ![Extendedn KF](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/2d67cfdd-6c42-4d10-9284-5eba74161915) |
-| Measurement  | ![Measurement 1](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a88678a-d0b8-4f83-a6a1-a748768ed5c1) | ![Measurement 2](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/5ce7def9-3309-4dd0-91f5-7cfcc92ce380) |
+<div style="text-align: center;">
+    <table>
+        <tr>
+            <th></th>
+            <th>Linear Kalman Filter</th>
+            <th>Extended Kalman Filter</th>
+        </tr>
+        <tr>
+            <td>Process model:</td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/d4e0430e-3809-40ba-ab25-d37a537a3f76" alt="Linear Kalman Filter"></td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/2d67cfdd-6c42-4d10-9284-5eba74161915" alt="Extended Kalman Filter"></td>
+        </tr>
+        <tr>
+            <td>Measurement</td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a88678a-d0b8-4f83-a6a1-a748768ed5c1" alt="Measurement 1"></td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/5ce7def9-3309-4dd0-91f5-7cfcc92ce380" alt="Measurement 2"></td>
+        </tr>
+    </table>
+</div>
 
 
 
