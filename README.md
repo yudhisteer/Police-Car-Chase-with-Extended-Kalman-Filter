@@ -84,10 +84,31 @@
 </div>
 
 
+<div align="center">
+    <table>
+        <tr>
+            <th>Linear Kalman Filter</th>
+            <th>Extended Kalman Filter</th>
+        </tr>
+         <tr>
+            <th>2D Linear Constant Velocity Model</th>
+            <th>2D Non-Linear Constant Velocity Model</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/60144129-282a-4cc9-a72e-39049b73fe32" alt="Image 1"></td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/557eb6a0-b5ef-4703-9ebb-d1917a2e294e" alt="Image 1"></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/3ddb7fa3-b29d-4bc9-a909-7964229153a9" alt="Image 5"></td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/c95ad0af-43da-4d4c-8b9c-e421c2e4bae8" alt="Image 6"></td>
+        </tr>
+    </table>
+</div>
+
+
 
 
 <img width="449" alt="image" src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/be71cc3e-f1f9-4c9f-b0a5-7bb7376092b5">
-
 
 <img width="837" alt="image" src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/bafe2729-ecee-492b-a5c2-2b6fb6e66c0b">
 
