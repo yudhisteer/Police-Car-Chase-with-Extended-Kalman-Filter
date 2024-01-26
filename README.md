@@ -56,6 +56,34 @@
 
 
 
+<div align="center">
+    <table>
+        <tr>
+            <th>a priori State:</th>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/1e7843a4-2aca-4ea7-9246-5ca2af7dffeb" alt="Image 1"></td>
+        </tr>
+        <tr>
+            <th>a posteriori State:</th>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/3438e841-b573-4e92-9b23-47d57c191762" alt="Image 2"></td>
+        </tr>
+    </table>
+</div>
+
+
+<div align="center">
+    <table>
+        <tr>
+            <th>a priori Covariance:</th>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/9678e46c-4ffa-426e-9d67-2404cba55cd5" alt="Image 1"></td>
+        </tr>
+        <tr>
+            <th>a posteriori Covariance:</th>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/c62157ef-33d5-4742-aaa0-109702c196d0" alt="Image 2"></td>
+        </tr>
+    </table>
+</div>
+
+
 
 
 <img width="449" alt="image" src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/be71cc3e-f1f9-4c9f-b0a5-7bb7376092b5">
