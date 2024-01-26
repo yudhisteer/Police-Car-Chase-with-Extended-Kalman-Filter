@@ -45,7 +45,7 @@
     </table>
 </div>
 
-<div align="center">
+<div style="text-align: center;">
     <table>
         <tr>
             <th align="center">True State:</th>
