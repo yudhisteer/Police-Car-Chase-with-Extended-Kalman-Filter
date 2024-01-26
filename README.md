@@ -40,19 +40,20 @@
 <div style="text-align: center;">
     <table>
         <tr>
-            <td>True State:</td>
-            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/9c1554de-2a53-4aff-88fe-896c7426f12b" alt="Image 1"></td>
+            <td align="center">True State:</td>
+            <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/9c1554de-2a53-4aff-88fe-896c7426f12b" alt="Image 1"></td>
         </tr>
         <tr>
-            <td>Estimated State:</td>
-            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/575b75fb-19df-4c84-97c2-945feaa59042" alt="Image 2"></td>
+            <td align="center">Estimated State:</td>
+            <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/575b75fb-19df-4c84-97c2-945feaa59042" alt="Image 2"></td>
         </tr>
         <tr>
-            <td>Estimation Error:</td>
-            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/f575d765-911f-45f0-92af-1038c855f521" alt="Image 3"></td>
+            <td align="center">Estimation Error:</td>
+            <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/f575d765-911f-45f0-92af-1038c855f521" alt="Image 3"></td>
         </tr>
     </table>
 </div>
+
 
 
 
