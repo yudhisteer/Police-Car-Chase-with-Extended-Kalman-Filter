@@ -84,6 +84,22 @@
 </div>
 
 
+
+
+
+
+<p align="center">
+  <img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/be71cc3e-f1f9-4c9f-b0a5-7bb7376092b5" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/bafe2729-ecee-492b-a5c2-2b6fb6e66c0b" />
+</p>
+
+----------
+
+### 2. Process Model
+
 <div align="center">
     <table>
         <tr>
@@ -105,19 +121,12 @@
     </table>
 </div>
 
+--------
+
+### 3. Prediction Step
 
 
-
-<p align="center">
-  <img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/be71cc3e-f1f9-4c9f-b0a5-7bb7376092b5" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/bafe2729-ecee-492b-a5c2-2b6fb6e66c0b" />
-</p>
-
-
-
+----------
 
 ## References
 1. https://codingcorner.org/extended-kalman-filter-explained/
