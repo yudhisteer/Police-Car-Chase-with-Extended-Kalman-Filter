@@ -16,11 +16,17 @@
 
 ## 1. Overview
 
+|              | Linear Kalman Filter | Extended Kalman Filter |
+|--------------|---------|---------|
+| Process model: | ![Linear KF](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/d4e0430e-3809-40ba-ab25-d37a537a3f76) | ![Extendedn KF](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/2d67cfdd-6c42-4d10-9284-5eba74161915) |
+| Measurement  | ![Measurement 1](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a88678a-d0b8-4f83-a6a1-a748768ed5c1) | ![Measurement 2](https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/5ce7def9-3309-4dd0-91f5-7cfcc92ce380) |
+
+
+
 <img width="449" alt="image" src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/be71cc3e-f1f9-4c9f-b0a5-7bb7376092b5">
 
 
 <img width="837" alt="image" src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/bafe2729-ecee-492b-a5c2-2b6fb6e66c0b">
-
 
 
 
