@@ -111,7 +111,7 @@
             <th>2D Non-Linear Constant Velocity Model</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a2e861a-95c1-4b9f-8dfd-dbfc7ace9efb" alt="Image 1"></td>
+            <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a2e861a-95c1-4b9f-8dfd-dbfc7ace9efb" width="72%"  alt="Image 1"></td>
             <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/557eb6a0-b5ef-4703-9ebb-d1917a2e294e" alt="Image 1"></td>
         </tr>
         <tr>
