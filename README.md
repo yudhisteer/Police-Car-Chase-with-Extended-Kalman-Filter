@@ -24,12 +24,12 @@
             <th>Extended Kalman Filter</th>
         </tr>
         <tr>
-            <td>Process model:</td>
+            <th>Process model:</th>
             <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/d4e0430e-3809-40ba-ab25-d37a537a3f76" alt="Linear Kalman Filter"></td>
             <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/2d67cfdd-6c42-4d10-9284-5eba74161915" alt="Extended Kalman Filter"></td>
         </tr>
         <tr>
-            <td>Measurement:</td>
+            <th>Measurement:</th>
             <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/6a88678a-d0b8-4f83-a6a1-a748768ed5c1" alt="Measurement 1"></td>
             <td><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/5ce7def9-3309-4dd0-91f5-7cfcc92ce380" alt="Measurement 2"></td>
         </tr>
@@ -40,15 +40,15 @@
 <div style="text-align: center;">
     <table>
         <tr>
-            <td align="center">True State:</td>
+            <th align="center">True State:</th>
             <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/9c1554de-2a53-4aff-88fe-896c7426f12b" alt="Image 1"></td>
         </tr>
         <tr>
-            <td align="center">Estimated State:</td>
+            <th align="center">Estimated State:</th>
             <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/575b75fb-19df-4c84-97c2-945feaa59042" alt="Image 2"></td>
         </tr>
         <tr>
-            <td align="center">Estimation Error:</td>
+            <th align="center">Estimation Error:</th>
             <td align="center"><img src="https://github.com/yudhisteer/Police-Car-Chase-with-Extended-Kalman-Filter/assets/59663734/f575d765-911f-45f0-92af-1038c855f521" alt="Image 3"></td>
         </tr>
     </table>
